@@ -164,7 +164,7 @@ select{
 .second-section{
     background: #e5faf8;
     overflow: hidden;
-    z-index: 2;
+    z-index: -1;
     position: relative;
 }
 .second-section-wrapper{
